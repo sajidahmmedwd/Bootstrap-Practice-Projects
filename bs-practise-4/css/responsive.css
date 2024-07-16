@@ -1,0 +1,489 @@
+/*// X-Large devices (large desktops, less than 1400px)*/
+@media (max-width: 1399.98px) { 
+	.banner_img {
+    left: 160px;
+}
+
+#work_section .work_details p {
+    font-size: 16px;
+}
+
+#work_section .work_details button {
+    margin-bottom: 160px;
+}
+
+.left_details {
+    margin-bottom: 60px;
+}
+
+.images img {
+    height: 75px;
+    width: 275px;
+}
+
+.service_details .left_side p {
+    padding-right: 975px;
+}
+
+.service_details .right_part p {
+    padding-left: 920px;
+}
+
+.service_details .right_part img{
+	max-width: 473px
+}
+
+.price_details .plan_details a {
+    font-size: 15px;
+}
+
+.price_peragraph p {
+    padding: 109px 245px 68px 202px;
+}
+
+#footer {
+    padding: 30px 0;
+    background: #0e1a35;
+}
+
+}
+
+/*// Large devices (desktops, less than 1200px)*/
+@media (max-width: 1199.98px) { 
+	#banner .banner_text h1 {
+    font-size: 50px;
+}
+
+.banner_img {
+    left: 73px;
+    height: 594px;
+    max-width: 843px;
+}
+
+.left_details h3 {
+    padding: 0px 0 20px 5px;
+}
+
+#drag_drop {
+    padding: 160px 0 150px 0;
+}
+
+.images img {
+    height: 64px;
+    width: 230px;
+}
+
+#templete .header p {
+    padding: 40px 60px 85px 60px;
+}
+
+.service_details .psd {
+    max-width: 1016px;
+    left: 152px;
+    top: 453px;
+}
+
+.service_details .left_side {
+    top: 455px;
+}
+
+.service_details .left_side p {
+    padding-right: 780px;
+}
+
+.left_side .line_1 {
+    max-width: 505px;
+}
+
+.service_details .right_part p {
+    padding-left: 720px;
+}
+
+.service_details .right_part {
+    margin-right: 25px;
+    top: 735px;
+}
+
+.service_details .right_part img {
+    max-width: 420px;
+}
+
+.price_details .plan_details {
+    padding-left: 27px;
+}
+
+.price_details .plan_details a {
+    font-size: 13px;
+}
+
+.price_peragraph p {
+    padding: 109px 115px 68px 112px;
+}
+
+ }
+
+/*// Medium devices (tablets, less than 992px)*/
+@media (max-width: 991.98px) { 
+
+.navbar-light .navbar-toggler {
+    color: cyan;
+    border-color: cyan;
+    font-size: 30px;
+}
+
+.navbar-collapse {
+    text-align: center;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    margin-bottom: 35px;
+    margin-left: 0;
+}
+
+#banner h5 {
+ 	margin: 0;
+ }
+
+#banner .banner_text h1 {
+    font-size: 40px;
+}
+
+.banner_img {
+    left: 68px;
+    height: 446px;
+    max-width: 632px;
+}
+
+#banner .banner_text button {
+    margin-bottom: 460px;
+}
+
+#work_section .work_details p {
+    padding: 0 110px 35px 106px;
+}
+
+#work_section .work_details button {
+    margin-bottom: 111px;
+}
+
+.left_details p {
+    font-size: 15px;
+}
+
+.left_details h3 {
+    padding: 0px 0 54px 5px;
+}
+
+.images img {
+    height: 78px;
+    width: 292px;
+}
+
+#templete {
+    padding: 114px 0;
+    margin-bottom: 613px;
+}
+
+#templete .header p {
+    font-size: 16px;
+    padding: 40px 60px 30px 60px;
+}
+
+.service_details .left_side p {
+    padding-right: 552px;
+      font-size: 13px;
+}
+
+.left_side .line_1 {
+    max-width: 298px;
+}
+
+.service_details .psd {
+    max-width: 787px;
+    left: 86px;
+    top: 467px;
+}
+
+.service_details .right_part {
+    margin-right: 28px;
+}
+
+.service_details .right_part p {
+    padding-left: 523px;
+    font-size: 13px;
+}
+
+
+.service_details .right_part img {
+    max-width: 272px;
+}
+
+.price_details {
+    margin-bottom: 60px;
+}
+
+.price_details .plan_details {
+    padding-left: 0px;
+    text-align: center;
+}
+
+.price_details .plan_details i {
+    color: green;
+    font-size: 35px;
+}
+
+.price_details .plan_details a {
+    font-size: 19px;
+    padding-left: 15px;
+}
+
+.price_peragraph p {
+    padding: 90px 47px 68px 50px;
+}
+
+.footer_contant ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.footer_contant h3, a {
+    font-size: 14px;
+}
+ }
+
+/*// Small devices (landscape phones, less than 768px)*/
+@media (max-width: 767.98px) { 
+
+.navbar-light .navbar-brand img {
+  	max-width: 60%;
+}
+
+#banner .banner_text h1 {
+    font-size: 30px;
+    padding-top: 92px;
+}
+
+#banner .banner_text h3 {
+    font-size: 20px;
+}
+
+.banner_img {
+    left: 23px;
+    height: 326px;
+    max-width: 524px;
+}
+
+#work_section {
+    margin-top: 200px;
+}
+
+#work_section .work_details p {
+    padding: 0 66px 35px 64px;
+}
+
+.left_details h3 {
+    font-size: 45px;
+}
+
+.links {
+    padding-bottom: 15px;
+}
+
+.images img {
+    height: 71px;
+    width: 234px;
+}
+
+#templete {
+    margin-bottom: 525px;
+}
+
+#templete .header p {
+    font-size: 14px;
+    padding: 40px 0px 30px 0px;
+}
+
+.service_details .left_side p {
+    padding-right: 384px;
+}
+
+.service_details .psd {
+    top: 525px;
+}
+
+.service_details .right_part p {
+    padding-left: 339px;
+}
+
+.service_details .right_part {
+    top: 780px;
+}
+
+.price_details .plan_details a {
+    font-size: 16px;
+}
+
+.price_details .plan_details i {
+    color: #003380;
+    font-size: 25px;
+}
+
+.price_peragraph p {
+    padding: 90px 0px 68px 0px;
+    font-size: 15px;
+}
+
+}
+
+/*// X-Small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+	.navbar-light .navbar-brand img {
+    max-width: 45%;
+}
+
+.navbar-light .navbar-toggler {
+    font-size: 24px;
+    margin-left: -20px;
+}
+
+#banner .banner_text h1 {
+    font-size: 20px;
+    padding-top: 118px;
+}
+
+#banner .banner_text button {
+    margin-bottom: 240px;
+}
+
+#banner .banner_text h3 {
+    font-size: 20px;
+}
+
+.banner_img {
+    left: 32px;
+    height: 175px;
+    max-width: 247px;
+    top: 580px;
+}
+
+#work_section .work_details p {
+    padding: 0 0px 35px 0px;
+    font-size: 15px;
+}
+
+#work_section .work_details button {
+    margin-bottom: 100px;
+}
+
+.left_details p {
+    padding-right: 0px;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+#drag_drop {
+    padding: 110px 0 130px 0;
+}
+
+.heading h3 {
+    font-size: 30px;
+}
+
+#drag_drop .completed {
+    margin-left: -432px;
+    margin-top: 432px;
+}
+
+.right_description h3 {
+    font-size: 45px;
+}
+
+.right_description p {
+    font-size: 15px;
+}
+
+#templete .header h3 {
+    font-size: 45px;
+}
+
+#templete .header p {
+    font-size: 13px;
+}
+
+.service_details .left_side p {
+    padding-right: 156px;
+}
+
+.left_side .line_1 {
+    max-width: 285px;
+}
+
+.service_details .psd {
+    max-width: 880px;
+    left: 4px;
+    top: 605px;
+}
+
+.service_details .right_part {
+    margin-right: 19px;
+    top: 800px;
+}
+
+.service_details .right_part p {
+    padding-left: 130px;
+}
+
+.service_details .right_part img {
+    max-width: 240px;
+}
+
+#price_list .header h3 {
+    font-size: 43px;
+}
+
+.price_details .plan_details i {
+    font-size: 18px;
+}
+
+.price_details .plan_details a {
+    font-size: 12px;
+}
+
+.price_peragraph p {
+    padding: 56px 0px 68px 0px;
+    font-size: 13px;
+}
+
+.footer_contant ul li {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.footer_contant h3, a {
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
