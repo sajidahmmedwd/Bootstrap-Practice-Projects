@@ -1,0 +1,234 @@
+/*// X-Large devices (large desktops, less than 1400px)*/
+@media (max-width: 1399.98px) { 
+	#phone_sec .iphone {
+    right: -13px;
+}
+	#footer .text p {
+    padding: 18px 100px 0 0;
+}
+}
+
+/*// Large devices (desktops, less than 1200px)*/
+@media (max-width: 1199.98px) { 
+	.box .details .find {
+    padding: 40px 0 37px 43px;
+}
+	.banner .icon_2 {
+    margin-left: 372px;
+}
+	.box .details .find a {
+    margin-right: 10px;
+}
+	.find .icon_2 {
+    margin-left: 80px;
+}
+	
+	#onboard {
+    padding: 127px 0 85px 0;
+}
+
+	#onboard .details p {
+    padding: 30px 50px 30px 0;
+}
+
+	.m_b {
+		margin-bottom: 20px;
+	}
+
+	.offset-1 {
+     margin-left: 0; 
+}
+
+	#footer .head h3 {
+    padding-top: 30px;
+}
+
+	#footer {
+    padding: 80px 0 110px 0;
+}
+
+
+
+
+
+
+
+
+}
+	
+
+
+
+
+
+
+
+
+/*// Medium devices (tablets, less than 992px)*/
+@media (max-width: 991.98px) { 
+
+	#phone_sec .iphone {
+    top: 1473px;
+    right: 100px;
+}
+
+	#phone_sec .under_phone p {
+    margin-top: 840px;
+}
+	
+	#service_area .box {
+    margin-bottom: 10px;
+}
+	
+	#look_detils .details p {
+    padding: 30px 28px 80px 0;
+}
+
+	.box .details .find {
+    padding: 40px 0 13px 43px;
+}
+
+	#copyright .details {
+    display: block;
+}
+
+	#copyright .details p{
+    padding-top: 10px;
+}
+
+
+
+ }
+
+
+
+
+
+
+
+/*// Small devices (landscape phones, less than 768px)*/
+@media (max-width: 767.98px) { 
+
+	#banner {
+    padding: 55px 0 120px 0;
+}
+
+	#banner .banner_details h3 {
+    padding-top: 120px;
+}
+
+	#phone_sec .iphone {
+    top: 1118px;
+}
+
+	#phone_sec .under_phone p {
+    margin-top: 700px;
+}
+
+	.find .icon_2 {
+    margin-left: 240px;
+}
+
+	#service_area .banner p {
+    margin-right: 118px;
+}
+
+	#look_detils .details p {
+    padding: 30px 28px 57px 0;
+}
+
+	#car {
+    padding: 228px 0 135px 0;
+}
+
+	#onboard {
+    padding: 109px 0 85px 0;
+}
+
+	#buying_sec {
+    padding: 100px 0 100px 0;
+}
+
+	#footer {
+    padding: 80px 0 100px 0;
+}
+
+	#footer .head p {
+    padding: 0 0 50px 0;
+}
+
+	.details p {
+    font-size: 12px;
+}
+
+
+
+
+ }
+
+
+
+
+
+/*// X-Small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+	.left_side h3 {
+    font-size: 28px;
+}
+
+	#phone_sec .iphone {
+    top: 1431px;
+}
+
+	#phone_sec .under_phone p {
+    margin-top: 340px;
+}
+
+	#service_area .banner p {
+    margin-right: -10px;
+}
+
+	.find .icon_2 {
+    margin-left: 48px;
+}
+
+	.find .icon {
+    margin-left: 17px;
+}
+
+#look_detils .heading h2 {
+    padding: 80px 0 65px 0;
+}
+
+	#car .details h3 {
+    font-size: 30px;
+}
+
+	#car .details p {
+    padding: 30px 50px 26px 0;
+}
+
+	#buying_sec .pakage {
+    padding-left: 27px;
+}
+
+
+
+
+
+
+
+
+
+
+
+ }
+
+
+
+
+
+
+
+
