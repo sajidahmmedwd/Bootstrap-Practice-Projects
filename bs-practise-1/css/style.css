@@ -1,0 +1,275 @@
+* {
+	padding: 0;
+	margin: 0;
+	outline: none;
+	box-sizing: border-box;
+}
+
+ol,ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	padding: 0;
+	margin: 0;
+}
+
+img {
+	vertical-align: middle;
+	min-width: 100%;
+	height: auto;
+}
+
+a:hover,
+a {
+	text-decoration: none;
+}
+
+p {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	overflow-x: hidden;
+}
+
+#header_nav {
+	padding: 44px 0;
+	background: #e5e5e5;
+}
+
+#header_nav .navbar-expand-lg .navbar-nav .nav-link {
+    padding: 0;
+}
+
+#header_nav ul a {
+	margin-left: 21px;
+	color: #4e4e4e;
+	font-size: 16px;
+	font-weight: 700;
+	font-family: 'Roboto Condensed', sans-serif;
+	transition: all linear 0.3s;
+}
+
+#header_nav ul a:hover {
+	color: #1abb9c;
+}
+
+/*header_nav_ends*/
+
+ #banner_section .banner_img {
+ 	background-image: url(../images/banner.png);
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ 	background-position: center center;
+ 	padding: 198px 0;
+ }
+
+.banner_details {
+	text-align: center;
+}
+
+.banner_details .fast{
+	font-weight: 700;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+	color: #f3f3f3;
+}
+
+.banner_details .last{
+	font-weight: 700;
+	font-size: 32px;
+	font-family: 'Roboto Slab', serif;
+	color: #a8a8a8;
+	padding-top: 22px;
+}
+
+.banner_details .btn {
+	background-color: #3f8dbf;
+	padding: 17px 27px;
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 35px;
+	color : #ffffff;
+	text-transform: uppercase;
+}
+
+/*banner_section_ends*/
+
+
+.content {
+	text-align: center; 
+}
+
+.content .content_icon {
+	background: #9d9abf;
+	height: 70px;
+	width: 70px;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+	margin: 60px 0 20px 0;
+}
+
+.content_icon i {
+	font-size: 24px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #ffffff;
+}
+
+.content .second {
+	background: #d2514b;
+}
+
+.content .third {
+	background: #66a3c6;
+}
+
+.content .forth {
+	background: #e8c04f;
+}
+
+.content_details h3{
+	font-size: 18px;
+	font-weight: 700;
+	font-family: 'Roboto Slab', serif;
+	color: #4e4e4e;
+}
+
+.content_details p{
+	font-size: 14px;
+	font-family: 'Roboto', sans-serif;
+	color: #616161;
+	padding: 16px 20px 30px 20px;
+}
+
+/*content_area-ENDS*/
+
+
+#work_area .work_area_header h3{
+	font-weight: 700;
+	font-size: 18px;
+	color: #4e4e4e;
+	font-family: 'Roboto Condensed', sans-serif;
+	text-transform: uppercase;
+	padding: 38px 0 30px 0;
+	text-align: center;
+}
+
+.work_area_details h3{
+	font-size: 18px;
+	font-weight: 700;
+	color: #4e4e4e;
+	padding-top: 20px;
+	font-family: 'Roboto Slab', serif;
+}
+
+.work_area_details span{
+	font-size: 13px;
+	font-family: 'Roboto Slab', serif;
+	color: #a8a8a8;
+	padding-top: 5px;
+
+}
+
+.work_area_details p{
+	font-size: 14px;
+	font-family: 'Roboto Slab', serif;
+	color: #5c5c5c;
+	padding: 10px 10px 55px 0;
+}
+
+/*work_area_ends*/
+
+#comment {
+	padding: 40px 0 50px 0;
+	background: #efefef;
+}
+
+#comment .comment_area {
+	text-align: center;	
+}
+
+.comment_area h3{
+	font-size: 100px;	
+	color: #dcdcdc;
+	font-family: 'IM Fell DW Pica SC', serif;
+}
+
+.comment_area p{
+	font-size: 20px;	
+	color: #a1a1a1;
+	font-family: 'Roboto Slab', serif;
+	margin-top: -20px;
+}
+
+/*comment_area_ends*/
+
+
+#footer{
+	background: #1d1d1d;
+	padding: 50px 0;
+}
+
+.footer_content .header {
+	font-size: 18px;
+	color: #6c6c6c;
+	font-weight: 700;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.footer_content .details p{
+	font-size: 14px;
+	color: #cacaca;
+	font-family: 'Roboto', sans-serif;
+	padding-top: 10px;
+}
+
+.footer_content .contact_info {
+	display: flex;
+	color: #cacaca;
+	padding-top: 20px;
+}
+
+.contact_info .con_i {
+	margin-right: 15px;
+	color: cyan;
+}
+
+.footer_content .publish_items p{
+	font-size: 14px;
+	color: #cacaca;
+	padding-top: 18px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.footer_content .publish_items h5{
+	font-size: 12px;
+	color: #cacaca;
+	padding-top: 5px;
+	font-family: 'Roboto', sans-serif;
+}
+
+#footer .horizontal_line {
+	color: #cacaca;
+	padding: 25px 0;
+}
+
+#footer .copy_right {
+	color: #cacaca;
+	font-size: 14px;
+	display: flex;
+}
+
+#footer .copy_right span{
+	color: cyan;
+}
